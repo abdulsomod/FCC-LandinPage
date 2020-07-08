@@ -1,1 +1,1 @@
-# FCC-LandinPage
+# FCC-LandingPage
